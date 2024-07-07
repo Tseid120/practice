@@ -1,4 +1,4 @@
-# practice ***server side person was here!
+# practice *** The server-side person was here!
 
 
 
@@ -6,4 +6,4 @@
 
 
 
-*more server side stuff
+*more server-side stuff
